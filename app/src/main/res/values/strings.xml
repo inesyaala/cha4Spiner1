@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cha4Spiner</string>
+    <string-array name="liste_pays">
+        <item>Tunisie</item>
+        <item>Algérie</item>
+        <item>Egypte</item>
+        <item>Palastine</item>
+    </string-array>
+</resources>
